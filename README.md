@@ -9,5 +9,4 @@ Skills: REACT / JS / Node.js / HTML / CSS
 - 😄 Pronouns: he/him 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]
-(https://www.linkedin.com/in/https://www.linkedin.com/in/alibinauanov//)  
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/alibinauanov/)
