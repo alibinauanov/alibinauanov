@@ -4,7 +4,6 @@ I'm Alibi from Kazakhstan, and I do projects on Development and Design. I really
 
 Skills: REACT / JS / Node.js / HTML / CSS 
 
-- 🌱 I’m currently learning React Native 
 - 📫 How to reach me: telegram @alibinauanov 
 - 😄 Pronouns: he/him 
 
