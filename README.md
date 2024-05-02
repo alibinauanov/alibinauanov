@@ -4,6 +4,3 @@ Hi! I'm Alibi from Kazakhstan, specializing in a broad spectrum of Development a
 
 - 📫 How to reach me: telegram @alibucci
 - 😄 Pronouns: he/him 
-
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alibinauanov/)
