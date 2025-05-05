@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Alibi Nauanov
 
-🎓 CS @ NYU Shanghai | 💻 Software Engineer | 🧪 Quantum + AI Enthusiast  
-🌍 From Almaty, Kazakhstan | 🧠 Building for social good
+🎓 CS @ NYU Shanghai | 💻 Software Engineer + Machine Learning | 🌍 From Almaty, Kazakhstan
 
 ---
 
