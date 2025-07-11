@@ -18,8 +18,8 @@ const alibi = {
     dataScience: ["PyTorch", "Scikit-learn", "Pandas", "LSTM", "CNN"]
   },
   experience: [
-    "Software Engineer @ NYU Shanghai (RITS)",
-    "Intern @ Metana | Shoptaki",
+    "Software Engineer @ NYU Shanghai (RITS) | Metana",
+    "Intern @ Shoptaki",
     "Research Assistant @ NYUAD CITIES Lab"
   ]
 }
