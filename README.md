@@ -13,9 +13,8 @@ const alibi = {
   education: "BSc Computer Science @ NYU Shanghai",
   techStack: {
     languages: ["Python", "Java", "JavaScript", "TypeScript", "C", "SQL"],
-    frameworks: ["React.js", "Node.js", "Express", "FastAPI", "Next.js", "Spring", "Django"],
-    tools: ["Git", "Linux", "Docker", "Kubernetes", "MongoDB", "Firebase", "AWS", "Figma"],
-    dataScience: ["PyTorch", "Scikit-learn", "Pandas", "LSTM", "CNN"]
+    frameworks: ["React.js", "Node.js", "Express.js", "Next.js", "Spring", "FastAPI", "PyTorch", "Pandas"],
+    tools: ["Git", "Docker", "Kubernetes", "n8n", "MongoDB", "Firebase", "AWS", "Figma"]
   },
   experience: [
     "Software Engineer @ NYU Shanghai (RITS) | Metana",
