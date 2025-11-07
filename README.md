@@ -2,7 +2,7 @@
 
 🎓 **CS Alumni** @ NYU Shanghai
 
-🌐 [alibucci.vercel.app](https://alibucci.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/alibinauanov/)
+🌐 [alibucci.xyz](https://alibucci.xyz/) | [LinkedIn](https://www.linkedin.com/in/alibinauanov/)
 
 ![Profile views](https://komarev.com/ghpvc/?username=alibinauanov&style=flat-square)
 
